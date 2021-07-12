@@ -1,0 +1,3 @@
+Date: 1:7:2021
+Monthly_Income: 100
+Total: 200

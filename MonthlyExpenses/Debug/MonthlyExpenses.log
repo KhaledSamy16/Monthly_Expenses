@@ -1,0 +1,13 @@
+﻿  Income.cpp
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(52,8): warning C4101: 'total': unreferenced local variable
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(53,8): warning C4101: 'income': unreferenced local variable
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(51,7): warning C4101: 'date': unreferenced local variable
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(96,28): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(184,22): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(222,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(288,21): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\MonthlyExpenses\MonthlyExpenses\Income.cpp(305,22): warning C4018: '<': signed/unsigned mismatch
+  MonthlyExpenses.vcxproj -> D:\Projects\C++\MonthlyExpenses\Debug\MonthlyExpenses.exe
